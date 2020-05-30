@@ -135,5 +135,3 @@ fi
 
 #add my git key
 eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/git_keys
-
